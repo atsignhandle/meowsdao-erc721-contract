@@ -1,0 +1,9 @@
+{
+    "name": "Meows(DAO) Genesis Collection",
+    "description": "Introducing the Meows(DAO)'s Genesis NFT collection. These hand-drawn illustrations and characters are brought to life by graphic designer and artist Natalia Pankina (@natashapankina5). ",
+    "image": "https://bafybeifhthhvj4jtbzpe7g2zid4o3wnaaxq56u5q2e2j2fa7ndtnlho5zq.ipfs.dweb.link/",
+    "external_link": "https://compuglobalhypermegacorp.com/",
+    "sample_artifact": "https://bafybeidsutyzoxt2mvnoj4yg6e2ju5uzziycgfs3izcqlcj3qekusforq4.ipfs.dweb.link/",
+    "seller_fee_basis_points": 1500,
+    "fee_recipient": "0xMEOWSDAO_PARTY_ADDRESS"
+}
